@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: bb1fef56-4ea0-4140-b447-1a33a2f5709f
+  title: DATA 442/610 Fall 2026
+  description: Neural Networks and Deep Learning Course Website
+  # keywords: []
+  authors: [Jonathan Colen]
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
