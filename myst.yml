@@ -8,8 +8,18 @@ project:
   authors: [Jonathan Colen]
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: intro.md
+    - title: Syllabus
+      url: https://raw.githubusercontent.com/jcolen/DATA442-Fall-2026/refs/heads/main/files/DATA_442_Syllabus.pdf
+
+    
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    hide_authors: True
+    favicon: "images/wm_cypher.ico"
+    logo: images/WM_Logo_Horizontal_Green.png
+    logo_dark: images/WM_Logo_Horizontal_White.png
+  parts: 
+    primary_sidebar_footer: parts/primary_sidebar_footer.md
