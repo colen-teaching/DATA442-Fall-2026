@@ -1,0 +1,8 @@
+version: 1
+project: 
+  toc:
+    - file: intro.md
+    - title: Syllabus
+      url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_Syllabus.pdf
+    - pattern: notebooks/*.ipynb
+      hidden: true

@@ -10,7 +10,7 @@ This course teaches the foundation of Neural Networks and Deep Learning. Student
 
 ## Syllabus
 
-[Click here to download the Syllabus](https://raw.githubusercontent.com/jcolen/DATA442-Fall-2026/refs/heads/main/files/DATA_442_Syllabus.pdf)
+[Click here to download the Syllabus](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_Syllabus.pdf)
 
 ## Textbook
 
@@ -20,11 +20,11 @@ We will use the *Deep Learning* book by Goodfellow, Bengio, and Courville, which
 
 The course schedule will be updated regularly. Dates and topics may change as the semester progresses, so please check this regularly.  
 
-| Week | Day |   |  
-| ---- | --- | - |
+| Week | Day |   | Links |
+| ---- | --- | - | -------- |
 | 1 | Aug 26 | Course Introduction & History of Deep Learning | 
-| 2 | Aug 31 | Linear Classifiers & Perceptrons |
-|   | Sep 2 | Logistic Regression, Nonlinear Classifiers | 
+| 2 | Aug 31 | Linear Classifiers & Perceptrons |[Slides]() <br> [Perceptron Demo](notebooks/2.1_Binary_Perceptron.ipynb) <br> [Adaline Demo](notebooks/2.2_Adaline.ipynb)|
+|   | Sep 2 | Logistic Regression, Nonlinear Classifiers |
 | 3 | Sep 7 | No class - Labor Day Holiday |
 |   | Sep 9 | Regularization, Optimization |
 |   | Sep 11 | <span style="color:red">PS 0 Due (bonus): Getting started on HPC</span>|
