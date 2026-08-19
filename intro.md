@@ -23,34 +23,34 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | Week | Day |   | Links |
 | ---- | --- | - | -------- |
 | 1 | Aug 26 | Course Introduction & History of Deep Learning | 
-| 2 | Aug 31 | Linear Classifiers & Perceptrons |[Slides]() <br> [Perceptron Demo](notebooks/2.1_Binary_Perceptron.ipynb) <br> [Adaline Demo](notebooks/2.2_Adaline.ipynb)|
+| 2 | Aug 31 | Linear Classifiers & Perceptrons | |
 |   | Sep 2 | Logistic Regression, Nonlinear Classifiers |
 | 3 | Sep 7 | No class - Labor Day Holiday |
 |   | Sep 9 | Regularization, Optimization |
 |   | Sep 11 | <span style="color:red">PS 0 Due (bonus): Getting started on HPC</span>|
 | 4 | Sep 14 | Optimization, Hyperparameter Tuning | 
-|   | Sep 16 | Deep Neural Networks & Backpropagation, from scratch |
-| 5 | Sep 21 | Deep Neural Networks & Backpropagation, in PyTorch |
-|   | Sep 23 | PyTorch AutoGrad |
-| 6 | Sep 28 | Image Data, Convolutional Layers |
-|   | Sep 30 | Convolutional Neural Networks |
+|   | Sep 16 | No class | 
+| 5 | Sep 21 | Deep Neural Networks & Backpropagation, from scratch |
+|   | Sep 23 | Deep Neural Networks & Backpropagation, in PyTorch |
+| 6 | Sep 28 | PyTorch AutoGrad |
+|   | Sep 30 | Image Data, Convolutional Layers |
 |   | Oct 2 | <span style="color:red">PS 1 Due: Building a NN from scratch</span>|
-| 7 | Oct 5 | Convolutional Neural Networks (continued) |
-|   | Oct 7 | Time series, Recurrent NNs |
-| 8 | Oct 12 | RNNs (continued) |
-|   | Oct 14 | Graph NNs |
-| 9 | Oct 19 | Graph NNs (continued) |
-|   | Oct 21 | Transformers | 
+| 7 | Oct 5 | Convolutional Neural Networks |
+|   | Oct 7 | Convolutional Neural Networks (continued) |
+| 8 | Oct 12 | Time series, Recurrent NNs |
+|   | Oct 14 | RNNs (continued) |
+| 9 | Oct 19 | Graph NNs |
+|   | Oct 21 | Graph NNs (continued) | 
 |   | Oct 23 | <span style="color:red">PS 2 Due: CNNs and Image Data</span>|
-| 10 | Oct 26 | Transformers (continued) |
-|    | Oct 28 | Unsupervised deep learning, autoencoders | 
-| 11 | Nov 2 | Probabilistic deep learning, variational autoencoders |
-|    | Nov 4 | Variational autoencoders (continued) |
+| 10 | Oct 26 | Transformers |
+|    | Oct 28 | Transformers (continued) | 
+| 11 | Nov 2 | Unsupervised deep learning, autoencoders |
+|    | Nov 4 | Probabilistic deep learning, variational autoencoders |
 |   | Nov 6 | <span style="color:red">PS 3 Due: NNs and time-series data</span>|
-| 12 | Nov 9 | Generative adversarial networks | 
-|    | Nov 11 | Generative adversarial networks (continued) |
-| 13 | Nov 16 | Contrastive representation learning |
-|    | Nov 18 | Contrastive representation learning (continued) |
+| 12 | Nov 9 | Variational autoencoders (continued) | 
+|    | Nov 11 | Generative adversarial networks |
+| 13 | Nov 16 | Generative adversarial networks (continued) |
+|    | Nov 18 | Contrastive representation learning |
 | 14 | Nov 23 | TBD: Discuss Final Project |
 |   | Nov 24 | <span style="color:red">PS 4 Due: Generative models and representations </span>|
 |    | Nov 25 | No class - Thanksgiving Holiday |
