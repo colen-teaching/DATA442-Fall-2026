@@ -27,7 +27,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 |   | Sep 2 | Logistic Regression, Nonlinear Classifiers |
 | 3 | Sep 7 | No class - Labor Day Holiday |
 |   | Sep 9 | Regularization, Optimization |
-|   | Sep 11 | <span style="color:red">PS 0 Due (bonus): Getting started on HPC</span>|
+|   | Sep 11 | <span style="color:red">PS 0 Due (bonus): Getting started</span>|
 | 4 | Sep 14 | Optimization, Hyperparameter Tuning | 
 |   | Sep 16 | No class | 
 | 5 | Sep 21 | Deep Neural Networks & Backpropagation, from scratch |
