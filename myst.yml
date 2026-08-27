@@ -6,7 +6,7 @@ project:
   description: Neural Networks and Deep Learning Course Website
   # keywords: []
   authors: [Jonathan Colen]
-  # github:
+  # github: 
 
 extends:
   - toc.yml
