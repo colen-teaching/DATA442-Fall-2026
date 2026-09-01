@@ -2,7 +2,7 @@
 
 This is the webpage for the Deep Learning and Neural Networks course held at William \& Mary in Fall 2026.
 
-Classes will be held in ISC 3342 on Monday and Wednesday from 2:00 PM to 3:20 PM
+Classes will be held in ISC 2280 on Monday and Wednesday from 2:00 PM to 3:20 PM
 
 ## Course Description
 
@@ -23,7 +23,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | Week | Day |   | Links |
 | ---- | --- | - | -------- |
 | 1 | Aug 26 | Course Introduction & History of Deep Learning | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%201%20-%20Course%20Introduction.pdf)
-| 2 | Aug 31 | Linear Classifiers & Perceptrons | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%202%20-%20Linear%20Classifiers.pdf) [Perceptron Demo](binary-perceptron) [Perceptron Convergence Proof](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/Perceptron_Convergence_Proof.pdf) [Adaline Demo](adaline)|
+| 2 | Aug 31 | Linear Classifiers & Perceptrons | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%202%20-%20Linear%20Classifiers.pdf) [Perceptron Demo](/binary-perceptron) [Perceptron Convergence Proof](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/Perceptron_Convergence_Proof.pdf) [Adaline Demo](/adaline)|
 |   | Sep 2 | Logistic Regression, Nonlinear Classifiers |
 | 3 | Sep 7 | No class - Labor Day Holiday |
 |   | Sep 9 | Regularization, Optimization |
