@@ -24,7 +24,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | ---- | --- | - | -------- |
 | 1 | Aug 26 | Course Introduction & History of Deep Learning | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%201%20-%20Course%20Introduction.pdf)
 | 2 | Aug 31 | Linear Classifiers & Perceptrons | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%202%20-%20Linear%20Classifiers.pdf) [Perceptron Demo](/binary-perceptron) [Perceptron Convergence Proof](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/Perceptron_Convergence_Proof.pdf) [Adaline Demo](/adaline)|
-|   | Sep 2 | Logistic Regression, Nonlinear Classifiers |
+|   | Sep 2 | Logistic Regression, Nonlinear Classifiers | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%203%20-%20Logistic%20Regression.pdf) |
 | 3 | Sep 7 | No class - Labor Day Holiday |
 |   | Sep 9 | Regularization, Optimization |
 |   | Sep 11 | <span style="color:red">PS 0 Due (bonus): Getting started</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS0.pdf) |
