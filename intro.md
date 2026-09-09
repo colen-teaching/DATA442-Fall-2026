@@ -4,6 +4,10 @@ This is the webpage for the Deep Learning and Neural Networks course held at Wil
 
 Classes will be held in ISC 2280 on Monday and Wednesday from 2:00 PM to 3:20 PM
 
+Instructor Office Hours: Friday, 9:30-11:30 AM, ISC 3324
+
+TA Office Hours: Tuesday, 12:00-1:00 PM, ISC 3364
+
 ## Course Description
 
 This course teaches the foundation of Neural Networks and Deep Learning. Students entering into this course should have, at minimum, a background in data preprocessing, cleaning, manipulation, and dimensionality reduction within Python. Through an applied learning project, you will learn how to implement a machine learning project from design to implementation in the context of neural networks. Topics we will cover include the basic building blocks of neural networks, RNNs, convolutional networks and computer vision, backpropagation basics and strategies, and more. The course will utilize PyTorch.
