@@ -26,7 +26,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | 2 | Aug 31 | Linear Classifiers & Perceptrons | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%202%20-%20Linear%20Classifiers.pdf) [Perceptron Demo](/binary-perceptron) [Perceptron Convergence Proof](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/Perceptron_Convergence_Proof.pdf) [Adaline Demo](/adaline)|
 |   | Sep 2 | Logistic Regression, Nonlinear Classifiers | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%203%20-%20Logistic%20Regression.pdf) [SGD Demo](/stochastic-gradient-descent)|
 | 3 | Sep 7 | No class - Labor Day Holiday |
-|   | Sep 9 | Regularization, Optimization |
+|   | Sep 9 | Regularization, Optimization | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%204%20-%20Regularization.pdf) |
 |   | Sep 11 | <span style="color:red">PS 0 Due (bonus): Getting started</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS0.pdf) |
 | 4 | Sep 14 | Optimization, Hyperparameter Tuning | 
 |   | Sep 16 | No class | 
@@ -34,7 +34,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 |   | Sep 23 | Deep Neural Networks & Backpropagation, in PyTorch |
 | 6 | Sep 28 | PyTorch AutoGrad |
 |   | Sep 30 | Image Data, Convolutional Layers |
-|   | Oct 2 | <span style="color:red">PS 1 Due: Building a NN from scratch</span>|
+|   | Oct 2 | <span style="color:red">PS 1 Due: Building a NN from scratch</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS1.pdf) |
 | 7 | Oct 5 | Convolutional Neural Networks |
 |   | Oct 7 | Convolutional Neural Networks (continued) |
 | 8 | Oct 12 | Time series, Recurrent NNs |

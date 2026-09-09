@@ -6,5 +6,7 @@ project:
       url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_Syllabus.pdf
     - title: Assignment 0
       url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS0.pdf
+    - title: Assignment 0
+      url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS1.pdf
     - pattern: notebooks/*.ipynb
       hidden: true
