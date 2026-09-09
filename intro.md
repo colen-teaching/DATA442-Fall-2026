@@ -30,7 +30,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | 2 | Aug 31 | Linear Classifiers & Perceptrons | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%202%20-%20Linear%20Classifiers.pdf) [Perceptron Demo](/binary-perceptron) [Perceptron Convergence Proof](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/Perceptron_Convergence_Proof.pdf) [Adaline Demo](/adaline)|
 |   | Sep 2 | Logistic Regression, Nonlinear Classifiers | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%203%20-%20Logistic%20Regression.pdf) [SGD Demo](/stochastic-gradient-descent)|
 | 3 | Sep 7 | No class - Labor Day Holiday |
-|   | Sep 9 | Regularization, Optimization | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%204%20-%20Regularization.pdf) |
+|   | Sep 9 | Regularization, Optimization | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%204%20-%20Regularization.pdf) [LR Demo](/logistic-regression-regularization)|
 |   | Sep 11 | <span style="color:red">PS 0 Due (bonus): Getting started</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS0.pdf) |
 | 4 | Sep 14 | Optimization, Hyperparameter Tuning | 
 |   | Sep 16 | No class | 
