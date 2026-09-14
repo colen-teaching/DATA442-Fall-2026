@@ -32,7 +32,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | 3 | Sep 7 | No class - Labor Day Holiday |
 |   | Sep 9 | Regularization, Optimization | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%204%20-%20Regularization.pdf) [LR Demo](/logistic-regression-regularization)|
 |   | Sep 11 | <span style="color:red">PS 0 Due (bonus): Getting started</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS0.pdf) |
-| 4 | Sep 14 | Optimization, Hyperparameter Tuning | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%205%20-%20Optimization.pdf) [Lab Template](/hyperparameter-template)|
+| 4 | Sep 14 | Optimization, Hyperparameter Tuning | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%205%20-%20Optimization.pdf) [Lab Template](/hyperparameter-template) [In-class demo](/hyperparameters)|
 |   | Sep 16 | No class | 
 | 5 | Sep 21 | Deep Neural Networks & Backpropagation, from scratch |
 |   | Sep 23 | Deep Neural Networks & Backpropagation, in PyTorch |
