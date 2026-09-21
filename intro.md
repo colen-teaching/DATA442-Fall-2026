@@ -34,7 +34,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 |   | Sep 11 | <span style="color:red">PS 0 Due (bonus): Getting started</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS0.pdf) |
 | 4 | Sep 14 | Optimization, Hyperparameter Tuning | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%205%20-%20Optimization.pdf) [Lab Template](/hyperparameter-template) [In-class demo](/hyperparameters)|
 |   | Sep 16 | No class | 
-| 5 | Sep 21 | Deep Neural Networks & Backpropagation, from scratch | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%206%20-%20Deep%20NNs.pdf) [Lab Template](/deep-nn-template) |
+| 5 | Sep 21 | Deep Neural Networks & Backpropagation, from scratch | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%206%20-%20Deep%20NNs.pdf) [Lab Template](/deep-nn-template) [In-class demo](/deep-nns)|
 |   | Sep 23 | Deep Neural Networks & Backpropagation, in PyTorch |
 | 6 | Sep 28 | PyTorch AutoGrad |
 |   | Sep 30 | Image Data, Convolutional Layers |
