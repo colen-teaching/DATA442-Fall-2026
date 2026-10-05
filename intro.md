@@ -39,13 +39,13 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | 6 | Sep 28 | PyTorch AutoGrad | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%208%20-%20Autograd.pdf) [Lab Template](/pytorch-nn-template) [In-class demo](/pytorch-nn) [Autograd Demo](/pytorch-autograd) |
 |   | Sep 30 | Image Data, Convolutional Layers | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%209%20-%20Images.pdf) [Lab Template](/images-cnns-template) [In-class demo](/images-cnns) |
 |   | Oct 2 | <span style="color:red">PS 1 Due: Building a NN from scratch</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS1.pdf) |
-| 7 | Oct 5 | Convolutional Neural Networks | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2010%20-%20CNNs.pdf) [Lab Template](/cnn-classification-template)
+| 7 | Oct 5 | Convolutional Neural Networks | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2010%20-%20CNNs.pdf) [Lab Template](/cnn-classification-template) [In-class demo](/cnn-classification)
 |   | Oct 7 | Convolutional Neural Networks (continued) |
 | 8 | Oct 12 | Time series, Recurrent NNs |
 |   | Oct 14 | RNNs (continued) |
 | 9 | Oct 19 | Graph NNs |
 |   | Oct 21 | Graph NNs (continued) | 
-|   | Oct 23 | <span style="color:red">PS 2 Due: CNNs and Image Data</span>|
+|   | Oct 23 | <span style="color:red">PS 2 Due: CNNs and Image Data</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS2.pdf) |
 | 10 | Oct 26 | Transformers |
 |    | Oct 28 | Transformers (continued) | 
 | 11 | Nov 2 | Unsupervised deep learning, autoencoders |
