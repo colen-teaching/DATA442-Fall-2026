@@ -40,7 +40,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 |   | Sep 30 | Image Data, Convolutional Layers | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%209%20-%20Images.pdf) [Lab Template](/images-cnns-template) [In-class demo](/images-cnns) |
 |   | Oct 2 | <span style="color:red">PS 1 Due: Building a NN from scratch</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS1.pdf) |
 | 7 | Oct 5 | Convolutional Neural Networks | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2010%20-%20CNNs.pdf) [Lab Template](/cnn-classification-template) [In-class demo](/cnn-classification)
-|   | Oct 7 | Convolutional Neural Networks (continued) |
+|   | Oct 7 | Convolutional Neural Networks (continued) | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2011%20-%20CNN%20Topics.pdf) [Lab Template](/cnn-classification-template) [Regression template](/regression-template) [Torchvision template](/torchvision-template) [Encoder/Decoder template](/encoder-decoder-template)|
 | 8 | Oct 12 | Time series, Recurrent NNs |
 |   | Oct 14 | RNNs (continued) |
 | 9 | Oct 19 | Graph NNs |

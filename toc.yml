@@ -8,5 +8,7 @@ project:
       url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS0.pdf
     - title: Assignment 1
       url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS1.pdf
+    - title: Assignment 2
+      url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS2.pdf
     - pattern: notebooks/*.ipynb
       hidden: true
