@@ -41,8 +41,8 @@ The course schedule will be updated regularly. Dates and topics may change as th
 |   | Oct 2 | <span style="color:red">PS 1 Due: Building a NN from scratch</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS1.pdf) |
 | 7 | Oct 5 | Convolutional Neural Networks | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2010%20-%20CNNs.pdf) [Lab Template](/cnn-classification-template) [In-class demo](/cnn-classification)
 |   | Oct 7 | Convolutional Neural Networks (continued) | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2011%20-%20CNN%20Topics.pdf) [Regression demo](/cnn-regression) [Torchvision demo](/torchvision) |
-| 8 | Oct 12 | CNNs (continued), Recurrent NNs | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2012%20-%20RNNs.pdf)[Encoder/Decoder demo](/encoder-decoder-template) |
-|   | Oct 14 | RNNs (continued) |
+| 8 | Oct 12 | CNN Autoencoders | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2012%20-%20Encoder%20Decoder.pdf)[Encoder/Decoder demo](/encoder-decoder) [SLURM sample](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/example_script.slurm) | 
+|   | Oct 14 | Recurrnet NNs | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2013%20-%20RNNs.pdf) |
 | 9 | Oct 19 | Graph NNs |
 |   | Oct 21 | Graph NNs (continued) | 
 |   | Oct 23 | <span style="color:red">PS 2 Due: CNNs and Image Data</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS2.pdf) |
