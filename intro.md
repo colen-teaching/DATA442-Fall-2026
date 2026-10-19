@@ -43,11 +43,11 @@ The course schedule will be updated regularly. Dates and topics may change as th
 |   | Oct 7 | Convolutional Neural Networks (continued) | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2011%20-%20CNN%20Topics.pdf) [Regression demo](/cnn-regression) [Torchvision demo](/torchvision) |
 | 8 | Oct 12 | CNN Autoencoders | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2012%20-%20Encoder%20Decoder.pdf)[Encoder/Decoder demo](/encoder-decoder) [SLURM sample](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/example_script.slurm) | 
 |   | Oct 14 | Recurrent NNs | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2013%20-%20RNNs.pdf) [In-class demo](/rnn-classification) |
-| 9 | Oct 19 | Graph NNs |
-|   | Oct 21 | Graph NNs (continued) | 
+| 9 | Oct 19 | RNNs (continued) | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2014%20-%20RNNs.pdf) [In-class demo](/rnn-forecasting)
+|   | Oct 21 | Graph NNs | 
 |   | Oct 23 | <span style="color:red">PS 2 Due: CNNs and Image Data</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS2.pdf) |
-| 10 | Oct 26 | Transformers |
-|    | Oct 28 | Transformers (continued) | 
+| 10 | Oct 26 | Graph NNs |
+|    | Oct 28 | Transformers | 
 | 11 | Nov 2 | Unsupervised deep learning, autoencoders |
 |    | Nov 4 | Probabilistic deep learning, variational autoencoders |
 |   | Nov 6 | <span style="color:red">PS 3 Due: NNs and time-series data</span>|
