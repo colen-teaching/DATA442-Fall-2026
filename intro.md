@@ -44,13 +44,13 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | 8 | Oct 12 | CNN Autoencoders | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2012%20-%20Encoder%20Decoder.pdf)[Encoder/Decoder demo](/encoder-decoder) [SLURM sample](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/example_script.slurm) | 
 |   | Oct 14 | Recurrent NNs | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2013%20-%20RNNs.pdf) [In-class demo](/rnn-classification) |
 | 9 | Oct 19 | RNNs (continued) | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2014%20-%20RNNs.pdf) [Classification demo](/rnn-classification) [Forecasting demo](/rnn-forecasting)
-|   | Oct 21 | Graph NNs | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2015%20-%20Intro%20GNNs.pdf) [Forecasting demo](/rnn-forecasting) 
+|   | Oct 21 | RNNs (continued | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2015%20-%20Time%20Series.pdf) [Forecasting demo](/rnn-forecasting) 
 |   | Oct 25 | <span style="color:red">PS 2 Due: CNNs and Image Data</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS2.pdf) |
-| 10 | Oct 26 | Graph NNs | [GNN demo](/gnn-introduction)
-|    | Oct 28 | Transformers | 
-| 11 | Nov 2 | Unsupervised deep learning, autoencoders |
+| 10 | Oct 26 | Graphs, Graph Convolutions | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2016%20-%20Graph%20Convolutions.pdf) [GNN demo](/gnn-introduction)
+|    | Oct 28 | Graph NNs | 
+| 11 | Nov 2 | Transformers |
 |    | Nov 4 | Probabilistic deep learning, variational autoencoders |
-|   | Nov 6 | <span style="color:red">PS 3 Due: NNs and time-series data</span>|
+|   | Nov 8 | <span style="color:red">PS 3 Due: RNNs and GNNs</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS3.pdf) |
 | 12 | Nov 9 | Variational autoencoders (continued) | 
 |    | Nov 11 | Generative adversarial networks |
 | 13 | Nov 16 | Generative adversarial networks (continued) |
