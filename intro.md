@@ -47,7 +47,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 |   | Oct 21 | RNNs (continued | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2015%20-%20Time%20Series.pdf) [Forecasting demo](/rnn-forecasting) 
 |   | Oct 25 | <span style="color:red">PS 2 Due: CNNs and Image Data</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS2.pdf) |
 | 10 | Oct 26 | Graphs, Graph Convolutions | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2016%20-%20Graph%20Convolutions.pdf) [GNN demo](/gnn-introduction)
-|    | Oct 28 | Graph NNs | 
+|    | Oct 28 | Graph NNs | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2017%20-%20GNNs.pdf) [GNN demo](/gnn-pytorch)
 | 11 | Nov 2 | Transformers |
 |    | Nov 4 | Probabilistic deep learning, variational autoencoders |
 |   | Nov 8 | <span style="color:red">PS 3 Due: RNNs and GNNs</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS3.pdf) |
