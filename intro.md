@@ -49,7 +49,7 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | 10 | Oct 26 | Graphs, Graph Convolutions | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2016%20-%20Graph%20Convolutions.pdf) [GNN demo](/gnn-introduction)
 |    | Oct 28 | Graph NNs | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2017%20-%20GNNs.pdf) [GNN demo](/gnn-pytorch)
 | 11 | Nov 2 | Transformers | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2018%20-%20Transformers.pdf) [Transformer demo](/transformers)
-|    | Nov 4 | Introduction to representation learning |
+|    | Nov 4 | Introduction to representation learning | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2019%20-%20Representations.pdf) [Representations demo](/representations)
 |   | Nov 8 | <span style="color:red">PS 3 Due: RNNs and GNNs</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS3.pdf) |
 | 12 | Nov 9 | Variational autoencoders| 
 |    | Nov 11 | Generative adversarial networks |
