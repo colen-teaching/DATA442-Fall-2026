@@ -12,5 +12,7 @@ project:
       url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS2.pdf
     - title: Assignment 3
       url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS3.pdf
+    - title: Assignment 4
+      url: https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS4.pdf
     - pattern: notebooks/*.ipynb
       hidden: true
