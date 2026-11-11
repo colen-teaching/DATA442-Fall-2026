@@ -51,9 +51,9 @@ The course schedule will be updated regularly. Dates and topics may change as th
 | 11 | Nov 2 | Transformers | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2018%20-%20Transformers.pdf) [Transformer demo](/transformers)
 |    | Nov 4 | Introduction to representation learning | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2019%20-%20Representations.pdf) [Representations demo](/representations)
 |   | Nov 8 | <span style="color:red">PS 3 Due: RNNs and GNNs</span>| [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS3.pdf) |
-| 12 | Nov 9 | Variational autoencoders| [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2020%20-%20VAEs.pdf) [VAE demo](/vae)
-|    | Nov 11 | Generative adversarial networks |
-| 13 | Nov 16 | Generative adversarial networks (continued) |
+| 12 | Nov 9 | Variational autoencoders| [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2020%20-%20VAEs.pdf) [VAE demo](/vae) |
+|    | Nov 11 | Generative adversarial networks | [Slides](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/lectures/Lecture%2021%20-%20GANs.pdf) [GAN demo](/gan) |
+| 13 | Nov 16 | Generative adversarial networks (continued) | [DCGAN demo](/dcgan) |
 |    | Nov 18 | Contrastive representation learning |
 | 14 | Nov 23 | TBD: Discuss Final Project |
 |    | Nov 25 | No class - Thanksgiving Holiday | <span style="color:red">PS 4 Due: VAEs [link](https://raw.githubusercontent.com/colen-teaching/DATA442-Fall-2026/refs/heads/main/files/DATA_442_PS4.pdf) </span>|
