@@ -10,4 +10,4 @@ source ~/.bashrc
 module load cuda/12.3
 conda activate ~/envs/nndl_env
 
-python train_bad_gan.py
+python train_wgan.py --model WGAN-GP
