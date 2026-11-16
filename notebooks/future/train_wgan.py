@@ -35,7 +35,7 @@ class Generator(nn.Module):
         self.generator = nn.Sequential(
             # [B, L, 1, 1]
             nn.ConvTranspose2d(latent_size, hidden_size, kernel_size=4, stride=1, padding=0),
-            nn.BatchNorm2d(hidden_size) if batch_norm else nn.Identity(),
+            nn.BatchNorm2d(hidden_size) if batch_norm else nn.InstanceNorm2d(hidden_size),
             nn.LeakyReLU(0.2),
             # [B, H, 4, 4]
             nn.ConvTranspose2d(hidden_size, hidden_size, kernel_size=4, stride=1, padding=0),
@@ -72,17 +72,17 @@ class Discriminator(nn.Module):
             nn.Conv2d(1, hidden_size, kernel_size=4, stride=2, padding=1),
             nn.BatchNorm2d(hidden_size) if batch_norm else nn.Identity(),
             nn.LeakyReLU(0.2),
-            nn.Dropout(p=0.2),
+            nn.Dropout(p=0.2) if batch_norm else nn.Identity(),
             # [B, H, 14, 14],
             nn.Conv2d(hidden_size, hidden_size, kernel_size=4, stride=2, padding=1),
             nn.BatchNorm2d(hidden_size) if batch_norm else nn.Identity(),
             nn.LeakyReLU(0.2),
-            nn.Dropout(p=0.2),
+            nn.Dropout(p=0.2) if batch_norm else nn.Identity(),
             # [B, H, 7, 7],
             nn.Conv2d(hidden_size, hidden_size, kernel_size=4, stride=2, padding=1),
             nn.BatchNorm2d(hidden_size) if batch_norm else nn.Identity(),
             nn.LeakyReLU(0.2),
-            nn.Dropout(p=0.2),
+            nn.Dropout(p=0.2) if batch_norm else nn.Identity(),
             # [B, H, 3, 3],
             nn.Conv2d(hidden_size, 1, kernel_size=3, stride=1, padding=0),
         )
@@ -110,11 +110,8 @@ def train_discriminator(x_real, generator, discriminator, optimizer, lipschitz_m
     # Total loss
     loss = -y_real.mean() + y_fake.mean()
 
-    if lipschitz_method == 'clip':
-        # Enforce K-Lipschitz constraint with gradient clipping
-        torch.nn.utils.clip_grad_norm_(discriminator.parameters(), grad_lambda)
         
-    elif lipschitz_method == 'gradient_penalty':
+    if lipschitz_method == 'gradient_penalty':
         # Enforce K-Lipschitz constraint using gradient penalty
         
         # Interpolate between real and fake samples
@@ -143,6 +140,11 @@ def train_discriminator(x_real, generator, discriminator, optimizer, lipschitz_m
     loss.backward()
     optimizer.step()
 
+    if lipschitz_method == 'clip':
+        # Enforce K-Lipschitz constraint with weight clipping
+        for p in discriminator.parameters():
+            p.data.clamp_(-grad_lambda, grad_lambda)
+    
     return loss.item(), y_real.detach().cpu().numpy(), y_fake.detach().cpu().numpy()
 
 def train_generator(x_real, generator, discriminator, optimizer):
@@ -244,8 +246,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--model', choices=['WGAN', 'WGAN-GP'], default='WGAN')
     args = parser.parse_args()
-
-    torch.manual_seed(42)
     
     transform = v2.Compose([
         v2.ToImage(),
